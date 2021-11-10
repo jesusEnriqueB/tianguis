@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c31dd5b8.chunk.css",
+    "main.js": "/static/js/main.e12ee417.chunk.js",
+    "main.js.map": "/static/js/main.e12ee417.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.0ae4aaa8.js",
+    "runtime~main.js.map": "/static/js/runtime~main.0ae4aaa8.js.map",
+    "static/css/2.40572fe1.chunk.css": "/static/css/2.40572fe1.chunk.css",
+    "static/js/2.c940d5f3.chunk.js": "/static/js/2.c940d5f3.chunk.js",
+    "static/js/2.c940d5f3.chunk.js.map": "/static/js/2.c940d5f3.chunk.js.map",
+    "static/js/3.6b25de6b.chunk.js": "/static/js/3.6b25de6b.chunk.js",
+    "static/js/3.6b25de6b.chunk.js.map": "/static/js/3.6b25de6b.chunk.js.map",
+    "static/js/4.04e5214a.chunk.js": "/static/js/4.04e5214a.chunk.js",
+    "static/js/4.04e5214a.chunk.js.map": "/static/js/4.04e5214a.chunk.js.map",
+    "static/js/5.3f91b144.chunk.js": "/static/js/5.3f91b144.chunk.js",
+    "static/js/5.3f91b144.chunk.js.map": "/static/js/5.3f91b144.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.22952ee75e3bcfc0c0dede5f72f5dbcd.js": "/precache-manifest.22952ee75e3bcfc0c0dede5f72f5dbcd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.40572fe1.chunk.css.map": "/static/css/2.40572fe1.chunk.css.map",
+    "static/css/main.c31dd5b8.chunk.css.map": "/static/css/main.c31dd5b8.chunk.css.map",
+    "static/media/TURISMO_horizontal.png": "/static/media/TURISMO_horizontal.e2ce384d.png",
+    "static/media/footer.png": "/static/media/footer.708e4cbf.png",
+    "static/media/header.png": "/static/media/header.d66c21aa.png"
+  }
+}
